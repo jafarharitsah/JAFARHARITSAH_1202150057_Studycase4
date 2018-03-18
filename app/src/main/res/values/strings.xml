@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JAFARHARITSAH_1202150057_Studycase4</string>
+    <string-array name="mahasiswa">
+        <item>Jape</item>
+        <item>Bunga</item>
+        <item>Jajang</item>
+        <item>Wati</item>
+        <item>Rani</item>
+        <item>Bila</item>
+        <item>Nandan</item>
+        <item>Susiana</item>
+        <item>Akew</item>
+        <item>Kang Adi</item>
+        <item>Bunda</item>
+        <item>Dedi</item>
+        <item>Padun</item>
+        <item>Ayah</item>
+        <item>Yadi</item>
+        <item>Dhana</item>
+        <item>Rio</item>
+        <item>Jonson</item>
+        <item>Jojon</item>
+        <item>Rizal</item>
+    </string-array>
+</resources>
